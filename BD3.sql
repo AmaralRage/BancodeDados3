@@ -11,7 +11,7 @@ create table alunos (
  );
  
 -- insert 
-insert into alunos (nome, nascimento) values ('leo', '2011-03-04');
+insert into alunos (nome, nascimento) values ('Leo', '2011-03-04');
 insert into alunos (nome, nascimento) values ('Amaral', '2012-03-04');
 insert into alunos (nome, nascimento) values ('Bruno', '2013-03-04');
 insert into alunos (nome, nascimento) values ('Giovani', null);
